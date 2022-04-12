@@ -22,19 +22,19 @@
                 <input name="tarih" hidden value="<?=date('d.m.Y H:i:s');?>">
 	            <input name="ip" hidden value="<?=$_SERVER['REMOTE_ADDR']?>">
                 <div class="form-floating mb-3 text-muted">
-                    <input type="text" name="adsoyad" class="form-control" id="floatingInput" placeholder="Ad Soyad">
+                    <input type="text" name="adsoyad" class="form-control" id="floatingInput" placeholder="Ad Soyad" required>
                     <label for="floatingInput">Ad Soyad</label>
                 </div>
                 <div class="form-floating mb-3 text-muted">
-                    <input type="email" name="email" class="form-control" id="floatingInput" placeholder="name@example.com">
+                    <input type="email" name="email" class="form-control" id="floatingInput" placeholder="name@example.com" required>
                     <label for="floatingInput">E-Posta Adresi</label>
                 </div>
                 <div class="form-floating mb-3 text-muted">
-                    <input type="text" name="konu" class="form-control" id="floatingPassword" placeholder="Konu">
+                    <input type="text" name="konu" class="form-control" id="floatingPassword" placeholder="Konu" required>
                     <label for="floatingPassword">Konu</label>
                 </div>
                 <div class="form-floating mb-3 text-muted">
-                    <textarea class="form-control" name="mesaj" placeholder="Mesaj" id="floatingTextarea2" style="height: 100px"></textarea>
+                    <textarea class="form-control" name="mesaj" placeholder="Mesaj" id="floatingTextarea2" style="height: 100px" required></textarea>
                     <label for="floatingTextarea2">Mesaj</label>
                 </div>
                 <div class="form-floating">
