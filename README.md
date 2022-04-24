@@ -11,3 +11,7 @@
 
 Kurulum bu kadar.
 [@BotFather](https://telegram.me/BotFather) 'dan oluşturduğunuz botu başlattıktan sonra test edebilirsiniz :)
+
+## GÖRÜNÜM
+
+![](https://store.donanimhaber.com/2e/ae/b3/2eaeb32bd5939b80ece53ca82a1540d5.jpeg)
