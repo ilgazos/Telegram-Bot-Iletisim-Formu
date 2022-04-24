@@ -15,3 +15,5 @@ Kurulum bu kadar.
 ## GÖRÜNÜM
 
 ![](https://store.donanimhaber.com/2e/ae/b3/2eaeb32bd5939b80ece53ca82a1540d5.jpeg)
+![](https://store.donanimhaber.com/62/68/92/6268929f503cbd382bd87865311db8fa.jpeg)
+![](https://store.donanimhaber.com/c6/6c/99/c66c99b9e242b649bf78e31361b3ee68.jpeg)
